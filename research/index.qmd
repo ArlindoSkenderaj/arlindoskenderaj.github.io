@@ -1,9 +1,16 @@
----
-title: "Research"
-listing:
-  type: default
-  contents:
-    - "*.qmd"
----
+## Working Papers
 
-All of my research projects.
+- **Selling Third-Party Consumer Data**  
+  **Abstract:** I consider a monopolist who buys consumer data from a data broker and uses it to engage in price discrimination. The monopolist privately owns some data in the form of a signal structure, and the data broker screens the monopolist based on this information by offering a refinement of it. The monopolist’s willingness to pay for additional data depends on the quality of the information she already owns. I analyze the revenue-maximizing mechanism for the data broker. In the case of binary consumer valuations, I provide an explicit construction of the optimal menu. This menu is characterized by a set of signals with binary signal realizations, through which the data broker extracts the full surplus. However, with three consumer valuations, full surplus extraction is not always possible. Sometimes the monopolist ends up with partial information even though the data broker's marginal cost of selling additional data is zero. 
+
+
+## Work in Progress
+
+- **Consumer Privacy And Personalized Product Design**  
+- **Complementary Products and Information Sharing**
+
+## Pre-Phd Research
+
+- **[Dynamic Implications of Wealth–Leisure Nexus](https://repository.bilkent.edu.tr/server/api/core/bitstreams/c95a4bbd-732d-47ec-b586-e6fe307af9b0/content){target="_blank"}**  
+  *July, 2022*
+

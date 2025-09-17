@@ -2,23 +2,23 @@
   {
     "objectID": "about.html",
     "href": "about.html",
-    "title": "Simone",
+    "title": "Arlindo Skënderaj",
     "section": "",
-    "text": "A longer paragraph about me and my interests and anything else I like to do."
+    "text": "PhD in Economics, Brown University — 2022–Present\n\nMA in Economics, Bilkent University — 2020–2022\n\nBS in Mathematics, Bilkent University — 2016–2020\n\nValedictorian, Class of 2020\n\nOrhan Alisbah Award Fellowship, 2019"
   },
   {
     "objectID": "about.html#education",
     "href": "about.html#education",
-    "title": "Simone",
-    "section": "Education",
-    "text": "Education\nWhere I studied"
+    "title": "Arlindo Skënderaj",
+    "section": "",
+    "text": "PhD in Economics, Brown University — 2022–Present\n\nMA in Economics, Bilkent University — 2020–2022\n\nBS in Mathematics, Bilkent University — 2016–2020\n\nValedictorian, Class of 2020\n\nOrhan Alisbah Award Fellowship, 2019"
   },
   {
     "objectID": "about.html#experience",
     "href": "about.html#experience",
-    "title": "Simone",
+    "title": "Arlindo Skënderaj",
     "section": "Experience",
-    "text": "Experience\nWhat I’ve done"
+    "text": "Experience\n\nBrown University\n\nGraduate Teaching Assistant - 2022–Present\n\nPre-College Instructor - 2022–Present\n\nBilkent University\n\nTeaching Assistant 2019–2022"
   },
   {
     "objectID": "research/paper-1.html",
@@ -30,9 +30,30 @@
   {
     "objectID": "research/index.html",
     "href": "research/index.html",
-    "title": "Research",
+    "title": "Home",
     "section": "",
-    "text": "All of my research projects.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMy First Paper\n\n\n\n\n\n\n\n\n\n\n\nJan 1, 2024\n\n\nSimone , Matthew DeHaven\n\n\n\n\n\n\n\n\n\n\n\n\nMy First Project\n\n\n\n\n\n\n\n\n\n\n\nFeb 28, 2024\n\n\nSimone\n\n\n\n\n\n\nNo matching items"
+    "text": "Selling Third-Party Consumer Data\nAbstract: I consider a monopolist who buys consumer data from a data broker and uses it to engage in price discrimination. The monopolist privately owns some data in the form of a signal structure, and the data broker screens the monopolist based on this information by offering a refinement of it. The monopolist’s willingness to pay for additional data depends on the quality of the information she already owns. I analyze the revenue-maximizing mechanism for the data broker. In the case of binary consumer valuations, I provide an explicit construction of the optimal menu. This menu is characterized by a set of signals with binary signal realizations, through which the data broker extracts the full surplus. However, with three consumer valuations, full surplus extraction is not always possible. Sometimes the monopolist ends up with partial information even though the data broker’s marginal cost of selling additional data is zero."
+  },
+  {
+    "objectID": "research/index.html#working-papers",
+    "href": "research/index.html#working-papers",
+    "title": "Home",
+    "section": "",
+    "text": "Selling Third-Party Consumer Data\nAbstract: I consider a monopolist who buys consumer data from a data broker and uses it to engage in price discrimination. The monopolist privately owns some data in the form of a signal structure, and the data broker screens the monopolist based on this information by offering a refinement of it. The monopolist’s willingness to pay for additional data depends on the quality of the information she already owns. I analyze the revenue-maximizing mechanism for the data broker. In the case of binary consumer valuations, I provide an explicit construction of the optimal menu. This menu is characterized by a set of signals with binary signal realizations, through which the data broker extracts the full surplus. However, with three consumer valuations, full surplus extraction is not always possible. Sometimes the monopolist ends up with partial information even though the data broker’s marginal cost of selling additional data is zero."
+  },
+  {
+    "objectID": "research/index.html#work-in-progress",
+    "href": "research/index.html#work-in-progress",
+    "title": "Home",
+    "section": "Work in Progress",
+    "text": "Work in Progress\n\nConsumer Privacy And Personalized Product Design\n\nComplementary Products and Information Sharing"
+  },
+  {
+    "objectID": "research/index.html#pre-phd-research",
+    "href": "research/index.html#pre-phd-research",
+    "title": "Home",
+    "section": "Pre-Phd Research",
+    "text": "Pre-Phd Research\n\nDynamic Implications of Wealth–Leisure Nexus\nJuly, 2022"
   },
   {
     "objectID": "research/project-1.html",
@@ -44,8 +65,8 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Simone",
+    "title": "Arlindo Skënderaj",
     "section": "",
-    "text": "I am a Ph.D. student in upside-down studies at Sunspot University.\nMost of my current research is driven by trying to find an answer to the age-old question of “How cute am I?”\nPlease feel free to get in touch!"
+    "text": "I am a fourth-year PhD student at Brown University. My research focuses on mechanism design, information economics, and industrial organization.\nPlease feel free to reach out to me at arlindo_skenderaj@brown.edu."
   }
 ]

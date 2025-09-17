@@ -1,7 +1,6 @@
 ---
 title: "My First Project"
-author: Simone
-date: "February 28, 2024"
+author: Arlindo Skënderaj
 ---
 
 A description of my project.
