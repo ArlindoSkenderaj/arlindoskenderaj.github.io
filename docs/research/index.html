@@ -135,8 +135,8 @@ ul.task-list li input[type="checkbox"] {
 <section id="working-papers" class="level2">
 <h2 class="anchored" data-anchor-id="working-papers">Working Papers</h2>
 <ul>
-<li><strong>Selling Third-Party Consumer Data</strong><br>
-<strong>Abstract:</strong> I consider a monopolist who buys consumer data from a data broker and uses it to engage in price discrimination. The monopolist privately owns some data in the form of a signal structure, and the data broker screens the monopolist based on this information by offering a refinement of it. The monopolist’s willingness to pay for additional data depends on the quality of the information she already owns. I analyze the revenue-maximizing mechanism for the data broker. In the case of binary consumer valuations, I provide an explicit construction of the optimal menu. This menu is characterized by a set of signals with binary signal realizations, through which the data broker extracts the full surplus. However, with three consumer valuations, full surplus extraction is not always possible. Sometimes the monopolist ends up with partial information even though the data broker’s marginal cost of selling additional data is zero.</li>
+<li><strong>Selling Supplemental Information (Draft comming soon)</strong><br>
+<strong>Abstract:</strong> I consider an environment in which a decision maker faces uncertainty and privately holds information in the form of a signal about the true state of the world. The decision maker purchases additional information from a data broker before receiving the signal realization. I characterize the data broker’s optimal selling mechanism, which involves screening over all possible signals. I allow the space of all signals the data broker can sell to be arbitrarily correlated with the signal the decision maker owns. This plays a key role in designing the optimal menu. In the binary-action setting, the data broker extracts the efficient surplus by offering a distinct binary signal for each type. Moreover, this result holds even when the broker does not know the prior distribution over states. In more general environments, I provide conditions on the payoff structure and the decision maker’s type space under which the data broker extracts the efficient surplus. I discuss scenarios in which efficient-surplus extraction is not possible.</li>
 </ul>
 </section>
 <section id="work-in-progress" class="level2">
@@ -231,7 +231,7 @@ ul.task-list li input[type="checkbox"] {
     }
       var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
       var mailtoRegex = new RegExp(/^mailto:/);
-        var filterRegex = new RegExp("https:\/\/ArlindoSkenderaj\.github\.io\/arlindoskenderaj\.github\.io\/");
+        var filterRegex = new RegExp('/' + window.location.host + '/');
       var isInternal = (href) => {
           return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
       }
